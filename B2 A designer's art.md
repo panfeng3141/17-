@@ -16,3 +16,6 @@ a designer's job is to select and fit this material together-and make it interes
 
 
 visual communication should be seen as the embodiment of form and function(the beautiful and the useful)
+
+
+- the designer's problem:
