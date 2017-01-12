@@ -13,3 +13,6 @@ graphic design was used by W.A.Dwiggins in a statement which first appeared in t
 
 graphic design is essentially about visual relationships-providing meaning to a masss of unrelated needs,ideas,words,and pictures.
 a designer's job is to select and fit this material together-and make it interesting.
+
+
+visual communication should be seen as the embodiment of form and function(the beautiful and the useful)
