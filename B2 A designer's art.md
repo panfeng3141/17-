@@ -20,3 +20,24 @@ visual communication should be seen as the embodiment of form and function(the b
 
 - the designer's problem:
 设计并不仅仅是把一堆视觉元素摆来摆去，然后得到一个炫酷的有创意的结果。一个有经验的设计师，往往会在仔细观察上花更多的时间，更值得关注的是设计师背后的思考过程:perceive/analyzes/organizes/symbolizes/synthesizes.
+
+The designer is confronted ,primarily,with three classes of material:
+
+1 the given-product,copy,slogan,logotype,format,media,production process
+2 the formal-space,contrast,proportion,harmony,rhythm,repetition,line,mass,shape,color,weight,volume,value,texture
+3 the psychological-visual perception and optical illusion problems,the spectators' instincts,intuitions,and emtions as well as the designer's own needs.
+
+
+as the material furnished him is often inadequate,vague,uninteresting,or otherwise unsuitable for visual interpretation, the designer's task is to restatethe problem.
+
+- the symbol im visual communication
+符号是什么？符号用来干嘛？如何定义一个符号？
+
+
+
+设计师面临着双重挑战，1，针对受众表意2具有审美
+而符号是设计师和受众间沟通的通用语言。
+什么是symbol:
+"that wich stands for or suggests something else by reason of relationship,association,convention,or accidental but not intentional resembalance"反正我是没理解
+
+例如：十字架／教堂／埃菲尔铁搭／五角星／八卦
