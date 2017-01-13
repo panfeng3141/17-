@@ -19,3 +19,4 @@ visual communication should be seen as the embodiment of form and function(the b
 
 
 - the designer's problem:
+设计并不仅仅是把一堆视觉元素摆来摆去，然后得到一个炫酷的有创意的结果。一个有经验的设计师，往往会在仔细观察上花更多的时间，更值得关注的是设计师背后的思考过程:perceive/analyzes/organizes/symbolizes/synthesizes.
