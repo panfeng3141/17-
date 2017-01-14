@@ -63,6 +63,7 @@ by panfeng3141 2017-1-14
 
 - `经典黑
 It is impossible to define cold without contrasting it with heat.It is impossible to comprehend life if death is ignored.Black is the color of death,but by virtue of this same psychological fact it is also the color of life-it defines,contrasts,and enhance life,light,and color.It is through the artist's awareness of black as a polar element and consequently of its paradoxical nature that the color black can be appreciated and effectively used.And the artist must not forget that its neutrality makes black the common denominator of a multicolored world.`
-最喜欢这段，感觉读完受到的启发很大，泰国的黑庙与白庙
+最喜欢这段，感觉读完受到的启发很大，让我想起泰国的黑庙与白庙。
+
 
 读完这本书后深深的钦佩这个伟大的平面设计大师，他让我看到好的设计作品是如何产生的，设计师的工作更吸引人的地方不是设计作品表面而是在作品诞生前，设计背后的努力。
