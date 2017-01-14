@@ -41,3 +41,15 @@ as the material furnished him is often inadequate,vague,uninteresting,or otherwi
 "that wich stands for or suggests something else by reason of relationship,association,convention,or accidental but not intentional resembalance"反正我是没理解
 
 例如：十字架／教堂／埃菲尔铁搭／五角星／八卦
+符号的多样性
+商标
+条纹
+重复
+想象力与图片
+
+
+the problem of artist is to defamiliarize the ordinary.
+
+形式与内容的统一
+设计师要像一个收藏家一样去收藏各种好的视觉体验。通过各种方式（摄影／笔记等）。只有扩大自己到视野才能有机会创造更好的视觉体验。
+幽默
