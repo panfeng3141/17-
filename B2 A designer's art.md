@@ -63,3 +63,10 @@ the problem of artist is to defamiliarize the ordinary.
 排版形式与表达
 易读性
 
+可玩性
+
+经典黑
+
+It is impossible to define cold without contrasting it with heat.It is impossible to comprehend life if death is ignored.Black is the color of death,but by virtue of this same psychological fact it is also the color of life-it defines,contrasts,and enhance life,light,and color.It is through the artist's awareness of black as a polar element and consequently of its paradoxical nature that the color black can be appreciated and effectively used.And the artist must not forget that its neutrality makes black the common denominator of a multicolored world.
+泰国的黑庙与白庙
+
