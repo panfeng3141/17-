@@ -1,11 +1,13 @@
+#《A Designer's Art》notes
 
-# 表现形式
-- stripes
-- image
-- repetition
-- humor
-- rebus and visual pun
-- collage and montageg 
+by panfeng3141 2017-1-14
+
+---
+
+引子：这是读的Paul Rand 的第二本书，拿到书老规矩先从头到尾翻一遍目录和内页，发现里面大量的插图，但可惜相当一部分插图翻完竟然都没发现“梗”在哪儿？貌似全书的结构也很“随性”，深深的觉得这跟设计师的某些特质还真匹配，设计师的内隐经验并非有迹可循，而是通过大量的实践习得，自己心知肚明却很难让外人立刻掌握。于是便断了自己急功近利的念想，打开耳朵满满听他絮叨...
+
+
+## 观点1:给平面设计一个初步印象：
 
 graphic design was used by W.A.Dwiggins in a statement which first appeared in the Boston Transcript,August29,1922.
 
@@ -18,7 +20,8 @@ a designer's job is to select and fit this material together-and make it interes
 visual communication should be seen as the embodiment of form and function(the beautiful and the useful)
 
 
-- the designer's problem:
+
+## 观点2:设计背后的过程
 设计并不仅仅是把一堆视觉元素摆来摆去，然后得到一个炫酷的有创意的结果。一个有经验的设计师，往往会在仔细观察上花更多的时间，更值得关注的是设计师背后的思考过程:perceive/analyzes/organizes/symbolizes/synthesizes.
 
 The designer is confronted ,primarily,with three classes of material:
@@ -30,7 +33,7 @@ The designer is confronted ,primarily,with three classes of material:
 
 as the material furnished him is often inadequate,vague,uninteresting,or otherwise unsuitable for visual interpretation, the designer's task is to restatethe problem.
 
-- the symbol im visual communication
+### 观点3:the symbol im visual communication
 符号是什么？符号用来干嘛？如何定义一个符号？
 
 
@@ -42,12 +45,13 @@ as the material furnished him is often inadequate,vague,uninteresting,or otherwi
 
 例如：十字架／教堂／埃菲尔铁搭／五角星／八卦
 符号的多样性
+
+
+
 商标
 条纹
 重复
 想象力与图片
-
-
 the problem of artist is to defamiliarize the ordinary.
 
 形式与内容的统一
@@ -66,7 +70,11 @@ the problem of artist is to defamiliarize the ordinary.
 可玩性
 
 经典黑
-
 It is impossible to define cold without contrasting it with heat.It is impossible to comprehend life if death is ignored.Black is the color of death,but by virtue of this same psychological fact it is also the color of life-it defines,contrasts,and enhance life,light,and color.It is through the artist's awareness of black as a polar element and consequently of its paradoxical nature that the color black can be appreciated and effectively used.And the artist must not forget that its neutrality makes black the common denominator of a multicolored world.
 泰国的黑庙与白庙
 
+ 包装
+ 颜色
+ 
+ 
+ 
